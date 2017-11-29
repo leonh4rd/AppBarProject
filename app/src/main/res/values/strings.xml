@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">Character Planner</string>
     <string name="content">Activity Content</string>
-    <string name="traits">Traits</string>
-    <string name="skills">Skills</string>
-    <string name="about">About</string>
+    <string name="wantsell">Quero vender</string>
+    <string name="wantbuy">Quero comprar</string>
+    <string name="about">Sobre</string>
     <string name="version">Version</string>
 </resources>

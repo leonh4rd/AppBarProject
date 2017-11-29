@@ -4,12 +4,12 @@
     <item
     android:id="@+id/menu_traits"
     android:orderInCategory="1"
-    android:title="@string/traits"
+    android:title="@string/wantbuy"
     app:showAsAction="withText"/>
     <item
     android:id="@+id/menu_skills"
     android:orderInCategory="2"
-    android:title="@string/skills"
+    android:title="@string/wantsell"
     app:showAsAction="withText"/>
     <item
     android:id="@+id/menu_about"
